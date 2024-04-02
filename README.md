@@ -10,6 +10,7 @@ Format the USB flash drive.
 
 
 Modify the startup path.
+create 3 files {extlinuxsda.conf, extlinuxsdb.conf, extlinuxsdc.conf}
 
 	sudo nano /boot/extlinux/extlinux.conf
 
