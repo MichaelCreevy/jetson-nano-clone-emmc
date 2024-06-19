@@ -1,4 +1,4 @@
-# jetson-nano-clone-emmc
+# jetson nano clone emmc
 
 Connect the USB flash drive to the Jetson Nano, check the device number of the USB flash drive, such as sda, open the Jetson Nano terminal and enter.
 
